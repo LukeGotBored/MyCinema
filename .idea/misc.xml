@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Cloud Drive/Dev Space/School Projects/TPSIT/AndroidStudio/MyCinema/app/src/main/res/layout/activity_items_list.xml" value="0.13677536231884058" />
+        <entry key="..\:/Cloud Drive/Dev Space/School Projects/TPSIT/AndroidStudio/MyCinema/app/src/main/res/layout/activity_main.xml" value="0.18659420289855072" />
+        <entry key="..\:/Cloud Drive/Dev Space/School Projects/TPSIT/AndroidStudio/MyCinema/app/src/main/res/layout/activity_movie_details.xml" value="0.13677536231884058" />
         <entry key="app/src/main/res/layout/activity_items_list.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.165" />
       </map>

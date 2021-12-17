@@ -30,16 +30,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <ImageView
-            android:id="@+id/imageView"
-            android:layout_width="wrap_content"
-            android:layout_height="274dp"
-            android:contentDescription="TODO"
-            android:paddingStart="50dp"
-            android:paddingEnd="50dp"
-            android:scaleType="fitCenter"
-            app:srcCompat="@drawable/ic_undraw_movie_night_fldd" />
-
         <TextView
             android:id="@+id/AppTitle"
             android:layout_width="match_parent"
